@@ -16,6 +16,21 @@ Estou construindo projetos para transformar conhecimento teórico em experiênci
 
 ---
 
+<h2>🚀 Meus Projetos</h2>
+
+<ul>
+  <li>
+    🌐 <a href="https://portifolioscript.netlify.app">Portfolio</a>
+  </li>
+
+  <li>
+    🛹 <a href="https://alineneves.netlify.app">Portifolio Ed Fisica</a>
+  </li>
+
+  <li>
+    🛍️ <a href="https://supplytop.netlify.app">Supply</a>
+  </li>
+
 ## 🚀 Tecnologias
 
 ### 🎨 Front-end
