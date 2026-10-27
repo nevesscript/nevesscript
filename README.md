@@ -28,18 +28,15 @@ Portfólio para apresentar minhas habilidades, projetos e conhecimentos em desen
 
 🔗 https://portifolioscript.netlify.app
 
+### 🍔 FogoeBraza
+Projeto web desenvolvido para organização de pedidos em comercio.
+
+🔗 https://fogoebraza.netlify.app/
 ### 🏃 Portfolio de Educação Física
-
-Projeto web desenvolvido para apresentar informações e conteúdos relacionados à Educação Física.
-
-🔗 https://alineneves.netlify.app
-
-### 🛍️ Supply
 
 Projeto de interface para uma aplicação de e-commerce, com foco na apresentação de produtos e na experiência do usuário.
 
-🔗 https://supplytop.netlify.app
-
+🔗 https://alineneves.netlify.app
 ---
 
 ## 💻 Tecnologias e conhecimentos
